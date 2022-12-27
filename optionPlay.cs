@@ -20,9 +20,9 @@ namespace snakeLadder
             const int snake = 2;
               switch (prop)
                 {
-                    case NoPlay: position = die;
+                    case NoPlay: 
                                  break;
-                    case ladder: position = die+die;
+                    case ladder: position = die;
                                  break;
                     case snake:  position = position - die;
                                  break;
