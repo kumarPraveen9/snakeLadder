@@ -7,5 +7,6 @@
             Console.WriteLine("Welcome to snack and ladder Game\n");
             StartRandomdie.start();
         }
+        
     }
 }
