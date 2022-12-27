@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace snakeLadder
 {
-    internal class StartPosZero
+    public class StartPosZero
     {
         public static void start()
         {
