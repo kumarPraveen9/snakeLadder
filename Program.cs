@@ -5,7 +5,7 @@
         public static void Main(string[] args)
         {
             Console.WriteLine("Welcome to snack and ladder Game\n");
-            StartRandomdie.start();
+            optionPlay.start();
         }
     }
 }
