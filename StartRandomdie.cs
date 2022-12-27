@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace snakeLadder
 {
-    internal class StartRandomdie
+    public class StartRandomdie
     {
         public static void start()
         {
