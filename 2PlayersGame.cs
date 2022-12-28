@@ -329,5 +329,6 @@ namespace snakeLadder
             Console.WriteLine("Player2>>>>the number of times die rolled : " + player2.player2resultflag);
 
         }
-    }
+ 
+     }
 }
