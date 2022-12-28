@@ -99,8 +99,8 @@ namespace snakeLadder
 
                 }
             }
-            Console.WriteLine("to reach win : "+flag);
-            Console.WriteLine("to reach exact win : "+flag2);
+            Console.WriteLine("dice rolled to reach win : "+flag);
+            Console.WriteLine("dice rolled to reach exact win : "+flag2);
             resultflag = flag + flag2;
             Console.WriteLine("the number of times die rolled : " + resultflag);
         }
